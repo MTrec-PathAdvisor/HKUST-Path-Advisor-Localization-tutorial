@@ -1,0 +1,12 @@
+The Wherami Android SDK package is hosted on http://143.89.199.163:8081/repository/wherami/ .
+Android Apps may use the following gradle setting in your project-level build.gradle.
+
+example:
+maven {
+            url "http://143.89.199.163:8081/repository/wherami/"
+
+            credentials {
+                username 'path_advisor'
+                password 'hkust'
+            }
+        }
