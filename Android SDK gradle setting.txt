@@ -3,7 +3,7 @@ Android Apps may use the following gradle setting in your project-level build.gr
 
 example:
 maven {
-            url "http://143.89.199.163:8081/repository/wherami/"
+            url "http://143.89.145.151:8081/repository/wherami/"
 
             credentials {
                 username 'path_advisor'
