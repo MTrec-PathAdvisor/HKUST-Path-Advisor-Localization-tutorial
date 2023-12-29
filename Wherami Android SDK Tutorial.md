@@ -1,7 +1,7 @@
 # Wherami Android SDK Tutorial
 
-##Import Dependency
-To use Wherami Android SDK, you have to import the library from the maven. Remember to [configure Maven repository](https://github.com/MTrec-PathAdvisor/HKUST-Path-Advisor-Localization.github.io/blob/main/Android%20SDK%20gradle%20setting.md) first.
+## Import Dependency
+To use Wherami Android SDK, you need to import the library from the maven. Remember to [configure Maven repository](https://github.com/MTrec-PathAdvisor/HKUST-Path-Advisor-Localization.github.io/blob/main/Android%20SDK%20gradle%20setting.md) first.
 ```gradle
 // app/src/build.gradle
 implementation 'com.mtrec.wherami:offlinesdk:1.1.0-b5'
