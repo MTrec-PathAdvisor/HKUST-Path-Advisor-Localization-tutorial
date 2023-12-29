@@ -2,7 +2,9 @@
 
 ## Usage
 Step1a: Configure the SDK: There are two parameters:
+
 ● CMS_HOST​ The domain/IP hosting the latest dataset for localization
+
 ● SITE_NAME ​The name of the site the dataset to be loaded for localization
 ```java
 Client​.Configure(CMS_HOST, SITE_NAME, getApplicationContext());
